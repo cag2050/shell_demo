@@ -1,3 +1,5 @@
+* shell 知识点：http://www.cnblogs.com/cag2050/p/8206212.html
+
 * 给sh文件增加可执行权限：
 ```
 chmod +x <xxx.sh>
