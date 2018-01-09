@@ -1,0 +1,1 @@
+echo "文件 source2.sh 输出的"

@@ -1,0 +1,5 @@
+wc << EOF
+AAA
+BBB
+BBB
+EOF
